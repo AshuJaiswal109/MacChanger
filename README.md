@@ -1,7 +1,7 @@
 # MacChanger Tool
 spoof Mac address of Linux os
 
-Every networking device is assigned a MAC address by the device manufacturer, which uniquely identifies a device in the network. It is burned into the hardware i.e firmware by manufacturers to avoid malicious attacks after changing it but we can change it temporarily using this MacChanger tool.
+Every networking device is assigned a MAC address by the device manufacturer, which uniquely identifies a device in the network. It is burned into the hardware i.e firmware by manufacturers.
 
 A MacChanger is a tool that changes the MAC address to the desired (or random) address until that device is rebooted. Once, the device is rebooted, the MAC address of that device will be set to its original MAC address.
 
