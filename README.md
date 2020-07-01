@@ -17,5 +17,6 @@ Moreover, MacChanger tool is designed for spoofing mac addresses of computer dev
      
 Then select the interface and then type new mac address
 
-[GitHub Logo](/macchanger.png)
+
+ ![Alt Text](https://github.com/AshuJaiswal109/MacChanger/blob/master/macchnager.png?raw=true)
 
